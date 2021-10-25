@@ -1,0 +1,7 @@
+Licence.txt
+setup.py
+ermapsh/__init__.py
+ermpash.egg-info/PKG-INFO
+ermpash.egg-info/SOURCES.txt
+ermpash.egg-info/dependency_links.txt
+ermpash.egg-info/top_level.txt
