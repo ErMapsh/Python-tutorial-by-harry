@@ -1,6 +1,6 @@
 #----normal fuction
 
-def normalfucn(a, b , c ):
+def normalfucn(a, b, c ):
     print(a, c, b )
 
 normalfucn("Mestri", "Mahesh", "ErMapsh")

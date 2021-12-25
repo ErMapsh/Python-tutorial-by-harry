@@ -17,7 +17,7 @@ def diet(b):
 
 
 def ui():
-    client_names = set(("harry", "Rohan", "ErMapsh"))  # i can use list instead of set
+    client_names = set(("harry", "Rohan", "ErMapsh", "Siddhu pednekar"))  # i can use list instead of set
     user_input = input("Enter Client Name:")
 
     if user_input in client_names:
