@@ -6,7 +6,7 @@ lis = ['a', 'b', 'c', 'd']
 #         print(f"jarvis by this:{item}")
 #     i += 1
 
-# In short
+# In short: this function give u index, item at a time
 for index, item in enumerate(lis): 
     if index%2 == 0:
         print(f"jarvis by this:{item}")
