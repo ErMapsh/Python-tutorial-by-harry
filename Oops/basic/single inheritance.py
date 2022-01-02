@@ -41,8 +41,11 @@
 # ErMapsh.print_info_programmer()
 # print(ErMapsh.no_of_holidays)
 
+
+
+
 class Mammal(object):
-  def __init__(self, mammalName):
+  def __init__(self, mammalName): 
     print(mammalName, 'is a warm-blooded animal.')
     
 class Dog(Mammal):
